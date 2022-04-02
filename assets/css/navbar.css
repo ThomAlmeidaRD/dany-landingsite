@@ -1,0 +1,12 @@
+.navbar{
+    padding: 10px;
+}
+
+.navbar b{
+    font-weight: lighter;
+    font-size: 1.2rem;
+}
+
+.navbar img{
+    width: 80px;
+}

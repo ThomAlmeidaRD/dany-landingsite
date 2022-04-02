@@ -1,0 +1,30 @@
+.steps-field{
+    padding: 10px;
+}
+
+.steps-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.steps{
+    box-shadow: 2px 3px 6px #3333333f;
+    padding: 8px;
+    margin: 5px;
+    height: 140px;
+    width: 50%;
+    border-radius: 10px;
+}
+
+.steps p{
+    font-size: 0.7rem;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #333;
+}
+
+.steps h2{
+    font-size: 1.4rem;
+}
