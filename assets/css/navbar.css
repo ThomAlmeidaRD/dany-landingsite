@@ -1,12 +1,13 @@
-.navbar{
+.navbar {
     padding: 10px;
+    text-align: center;
 }
 
-.navbar b{
+.navbar b {
     font-weight: lighter;
     font-size: 1.2rem;
 }
 
-.navbar img{
+.navbar img {
     width: 80px;
 }

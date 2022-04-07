@@ -1,17 +1,15 @@
-
-.agendar-agora{
-    background-color: #CB6CE6;
+.agendar-agora {
+    background-color: #00ac55;
     padding: 12px 24px;
     width: 100%;
     border: none;
     border-radius: 8px;
     color: #fff;
-    font-weight: bold;
-    font-size: 0.9rem;
+    font-weight: lighter;
+    font-size: 1rem;
 }
 
-
-.saiba-mais{
+.saiba-mais {
     background-color: #4BAE4F;
     padding: 12px 24px;
     margin-left: 20px;
