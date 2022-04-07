@@ -23,3 +23,33 @@
     margin-top: 20px;
     text-align: center;
 }
+
+.btn-submit {
+    width: 95%;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+    border: none;
+    background-color: #00ac55;
+    color: #fff;
+    border-radius: 7px;
+    font-size: 1.1rem;
+}
+
+.btn-submit-close {
+    width: 95%;
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #333;
+    border-radius: 7px;
+    font-size: 1.1rem;
+}
