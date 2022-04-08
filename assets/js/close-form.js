@@ -1,5 +1,10 @@
 var btn = document.getElementById('btn-close')
+var formContainer = document.getElementById('form-container')
 
 function closeForm() {
-    alert('OK')
+    formContainer.style.display = 'none'
+}
+
+function openForm(){
+    formContainer.style.display = 'flex'
 }

@@ -7,6 +7,6 @@
     <h1>Titulo sobre o negocio</h1>
     <p>Lorem ipsum dolorng elit. Soluta inventore, aliquam molestiae nostrum itaque rem consequatur facilis voluptates quos ad quo animi ipsam culpa eaque. Deserunt, aut eaque?</p>
 
-    <button class="agendar-agora">Agendar Hoje!</button>
+    <button class="agendar-agora" onclick="openForm()">Agendar Hoje!</button>
 
 </div>

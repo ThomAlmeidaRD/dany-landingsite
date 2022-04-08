@@ -4,6 +4,7 @@
 @import url('buttons.css');
 @import url('pricing.css');
 @import url('form-modal.css');
+@import url('footer.css');
 * {
     margin: 0;
     padding: 0;
